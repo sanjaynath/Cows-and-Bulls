@@ -19,7 +19,7 @@ This sample uses the Gradle build system. To build this project, use "Import Pro
 ## Screenshots
 
 
-![screen shot 2018-07-28 at 9 20 32 pm](https://user-images.githubusercontent.com/21357853/43358287-a97409aa-92ac-11e8-908f-5e94d0808b3a.png)
+![screen shot 2018-07-28 at 9 27 50 pm](https://user-images.githubusercontent.com/21357853/43358314-23b15402-92ad-11e8-8e9c-60d48ceb9505.png)
 
 
 
