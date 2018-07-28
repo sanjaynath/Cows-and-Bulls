@@ -2,7 +2,7 @@
 ================================================
 A code cracking mind game in Android.
 
-### To learn more about the game:
+### To learn more about the game and how to play:
 https://en.wikipedia.org/wiki/Bulls_and_Cows
 
 
@@ -18,8 +18,11 @@ https://en.wikipedia.org/wiki/Bulls_and_Cows
 
 This sample uses the Gradle build system. To build this project, use "Import Project" in Android Studio.
 
-##Screenshots
+## Screenshots
 ---------------
+
+
+![screen shot 2018-07-28 at 9 20 32 pm](https://user-images.githubusercontent.com/21357853/43358287-a97409aa-92ac-11e8-908f-5e94d0808b3a.png)
 
 
 
